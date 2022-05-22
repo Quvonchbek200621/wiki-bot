@@ -11,8 +11,8 @@ onput_lang = 'uz'
 
 wiki_lang = 'en'
 
+# https://developer.oxforddictionaries.com/ sayitdan app_id va app_key olidai 
 
+app_id = 'app id'
 
-app_id = '29680149'
-
-app_key = '3a5c33c7a5424fe223e657bbda1fcf40'
+app_key = 'app key'
